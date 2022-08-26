@@ -1,25 +1,28 @@
-# Assignment 1
+# Hosting Landing page
 
-![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
-![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
+## Concepts and Learnings
 
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--11-lightgrey)
+-  Learnt to create linear gradient border using **::before** pseudo element
+-  Learnt to create complex cards with different sections.
 
-![name](https://img.shields.io/badge/)
 
-## Project 11 [Live Link](https://live-proj-11.netlify.app)
+## Landing Page Snapshot
+![Desktop](./screenshots/project-11.png)
 
--   Skills Gained in this project
-    -   Learned to create linear gradient border using **::before** pseudo element
-    -   Learned to create complex cards with different sections.
 
----
+
+## Live
+
+Please check the Live Demo of the Designed Landing Page using the Below Link:-)
+
+![lIVE-dEMO](https://img.shields.io/badge/Live_Demo-<COLOR>)
+
+[Live-Demo](https://hosting-landing-pg.netlify.app)
 
 ## Time taken to finish this project
 
--   7 hour taken to complete it.
+⏰-   7 hour taken to complete it.
 
-#### Screenshot
+## Designed By Patil Pratiksha
 
-![Desktop](./screenshots/project-11.png)
+
