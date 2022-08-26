@@ -7,7 +7,7 @@
 
 
 ## Landing Page Snapshot
-![Desktop](./screenshots/project-11.png)
+![Desktop](./screenshots/11.png)
 
 
 
